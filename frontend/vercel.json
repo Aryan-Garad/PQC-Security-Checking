@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://pqc-security-checking.vercel.app/api/:path*"
+    }
+  ]
+}
+
+
